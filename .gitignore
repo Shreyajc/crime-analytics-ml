@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
