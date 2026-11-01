@@ -10,10 +10,11 @@ __pycache__/
 
 # Data
 data/*.csv
+Crime_Data_from_2020_to_Present.csv
+
+# VS Code
+.vscode/
 
 # OS
 .DS_Store
 Thumbs.db
-
-# VS Code
-.vscode/
